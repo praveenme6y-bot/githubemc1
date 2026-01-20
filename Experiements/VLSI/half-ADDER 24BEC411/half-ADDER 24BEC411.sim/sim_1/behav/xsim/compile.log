@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/admin/half-ADDER 24BEC411/half-ADDER 24BEC411.srcs/sources_1/new/full_adder_bh.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module full_adder_bh
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/admin/half-ADDER 24BEC411/half-ADDER 24BEC411.srcs/sim_1/new/fulladder_db.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder_db
